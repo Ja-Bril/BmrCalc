@@ -1,0 +1,152 @@
+html{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    height:100%;
+    margin: 0;
+    padding: 30px;
+    min-width: 1100px;
+    font-family: "Inter";
+    font-size: 18px;
+    font-weight: 400;
+    overflow: hidden;
+    }
+body{
+    font-family: "Inter";
+    margin: 0; 
+    height: 100%; 
+    overflow: hidden
+}
+
+    h1{
+        font-size: 36px;
+        font-weight: 600;
+        font-family: "Public Sans"; 
+        color:  #1d1d1d;
+        text-align: center;
+    }
+ #menbtn{
+    margin:0px;
+    display: inline-block;
+    vertical-align: center;
+ }
+ option{
+    font-family: "Inter";
+    
+ }
+ label{
+    font-family:"inter";
+ }
+ input{
+    font-family: "inter";
+ }
+ span{
+    font-family: "inter";
+ }
+ button{
+    font-family: "inter";
+ }
+#enter{
+    font-family: "inter";
+}
+#clear{
+    font-family: "inter";
+}
+#genders{
+    font-family: "inter";
+    margin-right: 60px;
+    accent-color: #10A73D;
+    margin-top: 5px;
+}
+#weightHeightDiv{
+    display: flex;
+}
+#weightDiv{
+    margin-right: 25px;
+
+}
+#ageDiv{
+    margin-top: 10px;
+    margin-right: 25px;
+}
+.a1{
+    display:flex;
+}
+#myDropdown{
+    margin-top: 10px;
+    margin-left: 22px;
+}
+#gendersAndButtons{
+    margin-top: 10px;
+    display:flex;
+}
+#input-box{
+    background-color:#bababb;
+    border-radius: 5px;
+    margin: 10px;
+    color: white;
+    padding: 20px;
+}
+
+#enter{
+    background-color: #10A73D;
+    border-radius: 5px;
+    color:white;
+    margin:0px;
+    height:40px;
+    line-height:12px;
+}
+#enter:hover{
+    background-color: #0D772C;
+    transform: scale(1.1);
+}
+#clear{
+    background-color: #bababb;
+    border-radius: 5px;
+    border-color: white;
+    color:white;
+    height:40px;
+    line-height:12px;
+    width: 80px;
+}
+#clear:hover{
+    background-color: #6C6C6D;
+    transform: scale(1.1);
+}
+#output{
+    font-size: 26px;
+}
+#heading2{
+    font-size: 33px;
+    text-decoration: underline;
+}
+ 
+#headingL{
+    font-size: 26px;
+}
+#headingG{
+    font-size:26px;
+   
+}
+#activity{
+    font-size:26px;
+}
+p{
+    font-size: 20px;
+    margin-left: 20px;
+    line-height: 150%;
+}
+#tdee-output2{
+    font-size: 24px;
+}
+#tdee-output1{
+    font-size: 26px;
+    
+}
+#bmr-output{
+    line-height: 230%;
+}
+#yo{
+    display: flex;
+}
