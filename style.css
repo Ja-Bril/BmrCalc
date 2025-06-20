@@ -8,7 +8,7 @@ html{
     font-family: "Inter";
     font-size: 18px;
     font-weight: 400;
-    overflow: hidden;
+    
     }
 body{
     font-family: "Inter";
@@ -22,7 +22,8 @@ body{
         font-weight: 600;
         font-family: "Public Sans"; 
         color:  #1d1d1d;
-        text-align: center;
+        text-align: left;
+        
     }
  #menbtn{
     margin:0px;
@@ -70,6 +71,7 @@ body{
 }
 .a1{
     display:flex;
+    
 }
 #myDropdown{
     margin-top: 10px;
@@ -81,7 +83,7 @@ body{
 #input-box{
     background-color:#bababb;
     border-radius: 5px;
-    margin: 10px;
+    margin: 0px;
     color: white;
     padding: 20px;
 }
@@ -111,42 +113,53 @@ body{
     background-color: #6C6C6D;
     transform: scale(1.1);
 }
-#output{
-    font-size: 26px;
+#heading{
+    font-size: 20px;
+    
 }
 #heading2{
-    font-size: 33px;
-    text-decoration: underline;
-}
- 
-#headingL{
-    font-size: 26px;
-}
-#headingG{
-    font-size:26px;
-   
-}
-#activity{
-    font-size:26px;
-}
-p{
     font-size: 20px;
+    
+}
+h3{
+       font-size:18px; 
+    }
+ 
+
+p{
+    font-size: 18px;
     margin-left: 20px;
     line-height: 150%;
 }
-#tdee-output2{
-    font-size: 24px;
-}
-#tdee-output1{
-    font-size: 26px;
-    
-}
-#bmr-output{
-    line-height: 230%;
-}
-#yo{
-    
-}
+
+
 #btns{
     margin-top: 10px;
+   
+}
+
+#headingS{
+    font-size: 20px;
+    
+}
+#headingL1{
+    font-size: 20px;
+}
+#headingM{
+    font-size: 20px;
+}
+#headingA{
+    font-size: 20px;
+}
+#headingL{
+    font-size: 20px;
+}
+#headingL2{
+    font-size: 20px;
+}
+#headingG{
+    font-size: 20px;
+}
+#headingG2{
+    font-size: 20px;
 }
